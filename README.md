@@ -1,2 +1,2 @@
-# Welcome to your organization's demo respository
-Dataset:CZII - CryoET Object Identification from kaggle
+# This is the final project for Professor Lin Chia-Yu's Machine Learning course.
+We use the dataset:CZII - CryoET Object Identification from kaggle
